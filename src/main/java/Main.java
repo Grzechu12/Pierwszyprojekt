@@ -7,6 +7,11 @@ public class Main {
     System.out.println("Cześć mateusz kolego!");
     System.out.println("Cześć wiktor kolego!");
     System.out.println("szukam telefonu");
+    int a = 5;
+    int c = 10;
+    int sum = a + c;
+    System.out.println("Sum: " + sum);
+    
   }
 
   // @Test
