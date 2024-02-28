@@ -6,6 +6,7 @@ public class Main {
   public static void main(String[] args) {
     System.out.println("Cześć mateusz kolego!");
     System.out.println("Cześć wiktor kolego!");
+    System.out.println("szukam telefonu");
   }
 
   // @Test
